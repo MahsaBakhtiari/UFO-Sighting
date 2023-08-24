@@ -1,0 +1,89 @@
+html {
+    height: 100%;
+    background-image: url("../HTML/beautiful-blue-stars-fill.jpg");
+    background-color: black;
+}
+
+/* website header typography */
+#title {
+    left: 0;
+    right: 0;
+    color: #9600dc;
+    text-align: center;
+    font-family: 'Alien', sans-serif;
+    font-weight: 300;
+    font-size: 30px;
+    letter-spacing: 10px;
+    margin-top: 20px;
+    padding-left: 10px;
+}
+
+/* website header question text*/
+#header2 {
+    font-family: 'Papercutz', sans-serif;
+    font-weight: bold;
+    color: #991515;
+    font-size: 18px;
+    text-shadow: 0 0 2px #9600dc
+}
+
+/* Introduvtion text */
+#discription {
+    font-family: 'Red Hat Text', sans-serif;
+    color: #ffffff;
+}
+
+/* style of button like objects */
+#button {
+    background-color: #fe48de;
+    font-family: 'Alien', sans-serif;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 20px;
+    border-color: #783450;
+    border-width: 3px;
+    color: #CFF2FF;
+}
+
+/* header of a paragraph  */
+#h4 {
+    color: #fe48de;
+    font-size: 16px;
+    font-family: 'Alien', sans-serif;
+    font-weight: bold;
+}
+
+/* long texts */
+#reportText {
+    color: #e8ea4a;
+    font-family: 'Red Hat Text', sans-serif;
+    font-size: smaller;
+}
+
+/* Leaflet Map style */
+#MahsaMap {
+    margin: 20px;
+    height: 300px;
+    border-radius: 20px;
+}
+
+/* Plotly plot */
+#mahsa_plotly {
+    margin: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Guide box */
+#guideMe {
+    color: #ffffff;
+    font-family: 'Red Hat Text', sans-serif;
+    font-size: 14px;
+}
+
+
+/* spacing */
+#spacing {
+    margin: 20px;
+}
