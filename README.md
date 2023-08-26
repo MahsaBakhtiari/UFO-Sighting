@@ -31,4 +31,3 @@ In summary, the UFO Sightings Analysis and Visualization project delves into cre
 * https://www.kaggle.com/datasets/NUFORC/ufo-sightings?resource=download
 * https://lospec.com/palette-list/ufo-50
 * https://www.cdnfonts.com/
-
