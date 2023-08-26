@@ -20,11 +20,21 @@ In this project, we delve into the fascinating world of UFO sightings, focusing 
 
 * **3D Visualization**: We created a 3D plot to visualize the distribution of sightings in both time and location. By manipulating the plot along the X-Y axis, users can assess the distances between reports on the selected date. Rotating the plot along the Z-axis reveals the time intervals between the sightings.
 
-##Model Training
+## Model Training
 To predict UFO shapes based on time and location, we trained a random forest model using data from four dates. While the model performed slightly better than random guessing, it exhibited signs of overfitting. This suggests that clear patterns between time, space, and reported shapes might not be evident for the selected dates.
 
 ## Conclusion
 In summary, the UFO Sightings Analysis and Visualization project delves into credible UFO sightings through data analysis, interactive visuals, and predictive modeling. Notably, our findings reveal non-homogeneity in the reports regarding the relationship between spacetime and the reported shapes. This intriguing insight adds complexity to the UFO phenomenon, leaving us with more questions than answers. Explore the interface, maps, and plots to dive into the captivating world of UFO phenomena.
+
+## Resources 
+
+* https://www.kaggle.com/datasets/NUFORC/ufo-sightings?resource=download
+* https://lospec.com/palette-list/ufo-50
+* https://www.cdnfonts.com/
+
+
+
+
 
 
 
