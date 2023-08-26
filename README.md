@@ -31,3 +31,9 @@ In summary, the UFO Sightings Analysis and Visualization project delves into cre
 * https://www.kaggle.com/datasets/NUFORC/ufo-sightings?resource=download
 * https://lospec.com/palette-list/ufo-50
 * https://www.cdnfonts.com/
+
+
+
+[![jhc github](https://img.shields.io/badge/GitHub-MahsaBakhtiari-181717.svg?style=flat&logo=github)](https://github.com/jhrcook)
+[![python](https://img.shields.io/badge/Python-3.9-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
+[![jupyter](https://img.shields.io/badge/Jupyter-Lab-F37626.svg?style=flat&logo=Jupyter)](https://jupyterlab.readthedocs.io/en/stable)
